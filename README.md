@@ -1,6 +1,6 @@
 # Restaurant Page
 
-[Live App](restaurant-page-rosy.vercel.app)
+[Live App](hhtp://restaurant-page-rosy.vercel.app)
 
 This React project is a website for fictional restaurant.  
 
