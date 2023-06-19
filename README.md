@@ -1,15 +1,15 @@
 # Restaurant Page
 
-[Live App](lcliving.vercel.app)
+[Live App](restaurant-page-rosy.vercel.app)
 
-This Next.js project uses the Bayut API to list, filter, and search available real estate properties in the UAE. It is a fully functional real estate search engine with advanced filtering options.
+This React project is a website for fictional restaurant.  
 
 ## Installation
 
-To run the Realtor App website locally, follow these steps:
+To run the Restaurant website locally, follow these steps:
 
-1. Clone the repository: git clone https://github.com/bensonbjacob/lcliving.git
-2. Navigate to the project directory: cd lcliving
+1. Clone the repository: git clone https://github.com/bensonbjacob/restaurant-page.git
+2. Navigate to the project directory: cd restaurant
 3. Install the dependencies: npm install
 4. Start the development server: npm run dev
 5. Open your browser and visit: http://localhost:3000
